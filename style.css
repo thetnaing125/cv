@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair:ital,wght@0,400;1,400;1,500;1,600;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  background-color: #e3e3e3;
+}
+
+#main {
+  position: relative;
+  margin-top: 80px;
+}
+#logo-container {
+  position: relative;
+  top: -70px;
+}
+
+#title {
+  font-family: "Playfair", serif;
+}
+.line{
+    width:100%;
+    overflow: hidden;
+}
+
+#contact-list li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  line-height: 2.2;
+}
+#contact-list span{
+  display:block;
+  margin:0;
+  padding:0;
+  line-height: 1.5;
+}
+#skills .progress{
+  margin-bottom: 15px;
+}
+#project li{
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  margin-bottom: 15px;
+}
